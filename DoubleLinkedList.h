@@ -2,6 +2,7 @@
 #include<initializer_list>
 #include<cstdlib>
 template <typename Ob>
+//moyukuaile
 /**
 储存数据类型为Ob的双向列表
 */
